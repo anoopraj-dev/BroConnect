@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+
+}
+
+.card-body{
+    background: linear-gradient(45deg, #ffffff, #023042ce);
+    
+    border-radius: 3px;
+}
+.error{
+    color: orangered;
+    font-weight: 500;
+    font-size: 18px;
+ 
+}
+.success{
+    color: green;
+}
